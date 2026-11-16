@@ -1,7 +1,7 @@
 'use strict';
 const scope = new URL(self.registration.scope);
 const prefix = 'lrs-guia:' + scope.pathname + ':';
-const CACHE = prefix + 'v14-20261116';
+const CACHE = prefix + 'v16-20261116';
 const required = ['./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'].map(x=>new URL(x,scope).href);
 const entry = required[0];
 self.addEventListener('install',event=>{

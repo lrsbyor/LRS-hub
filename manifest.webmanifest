@@ -2,7 +2,7 @@
   "id": "./",
   "name": "LRS Tech Hub",
   "short_name": "LRS Tech Hub",
-  "description": "Reportes, tabulador, calendario y facturas.",
+  "description": "Reportes, tabulador, calendario y facturas locales.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",

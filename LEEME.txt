@@ -1,15 +1,9 @@
 LRS TECH HUB
 Publica todos los archivos en la misma carpeta en un sitio HTTPS. Abre index.html una vez con conexión; el panel instalable puede seguir abriendo sin conexión.
-
 PRIMER USO EN TELÉFONO
 Instala la versión HTTPS desde el navegador antes de crear facturas reales. En iPhone: Safari → Compartir → Añadir a pantalla de inicio. En Android: Chrome → Instalar aplicación.
-
-Si ya usaste el HTML descargado o una pestaña de Safari, exporta tu respaldo desde ese mismo lugar. Abre la app instalada, entra en Historial y ajustes, importa el respaldo y verifica el número de facturas y los datos de empresa. El historial no se comparte automáticamente entre ambos espacios, incluso en el mismo iPhone.
-
-Los trabajos, el calendario, las facturas y los respaldos se guardan en el perfil local del navegador. Exporta un respaldo antes de cambiar de teléfono o limpiar el almacenamiento. No hay sincronización automática ni descargas con la app cerrada.
-
+Si ya usaste el HTML descargado o una pestaña de Safari, exporta tu respaldo desde ese mismo lugar. Abre la app instalada, entra en Ajustes, importa el respaldo y verifica el número de facturas y los datos de empresa. El historial no se comparte automáticamente entre ambos espacios, incluso en el mismo iPhone.
+Los trabajos, el calendario, las facturas y los respaldos se guardan en el perfil local del navegador. Exporta un respaldo antes de cambiar de teléfono o limpiar el almacenamiento. No hay sincronización automática ni descargas con la app cerrada. Inicio puede mostrar el clima con permiso del dispositivo o al elegir una ciudad. Los datos aproximados de ubicación se consultan con el proveedor del clima, sin enviarle el perfil, historial o datos de trabajo.
 Si la vista previa del archivo bloquea la actualización de tarifas, descarga el HTML y ábrelo directamente en tu navegador o usa la versión publicada por HTTPS. Si el panel sigue sin conexión, conserva la última copia válida e indica su fecha en el encabezado.
-
 Con conexión se consulta solo la pestaña de tarifas que alimenta Dashboard LRS y, en el generador de reportes, solo los nombres de los roles que usa Dashboard LRS, contrastados con la lista vigente aprobada. Los datos de tus facturas y los adjuntos que preparas no se envían a esas fuentes.
-
 Un correo generado es un borrador; revisa el destinatario y la captura antes de enviarlo desde tu app de correo.
